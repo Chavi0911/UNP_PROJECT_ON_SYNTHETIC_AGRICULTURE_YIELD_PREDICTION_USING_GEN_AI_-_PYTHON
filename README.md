@@ -1,4 +1,4 @@
-# UNP_PROJECT_ON_SYNTHETIC_AGRICULTURE_YIELD_PREDICTION_USING_GEN_AI_-_PYTHON
+# UNP_PROJECT_ON_SYNTHETIC_AGRICULTURE_YIELD_PREDICTION_USING_GEN_AI_AND_PYTHON
 
  I completed a project in collaboration with UNP on Synthetic Agriculture Yield Prediction using Gen AI and Python. The project involved generating synthetic agricultural datasets, analyzing key factors affecting crop yield, and building a prediction approach using Python in Google Colab. I also prepared a detailed presentation explaining the methodology, results, and practical applications, and delivered the final project presentation.
 
